@@ -7,10 +7,8 @@
         "code": "SKT",
         "bound": "west",
         "longitude": 114.230257,
-        "name": {
-          "zh_hk": "筲箕灣總站",
-          "en": "Shau Kei Wan Terminus"
-        },
+        "name_zh": "筲箕灣總站",
+        "name_en": "Shau Kei Wan Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -27,10 +25,8 @@
         "code": "02W",
         "bound": "west",
         "longitude": 114.229391,
-        "name": {
-          "zh_hk": "柴灣道",
-          "en": "Chai Wan Road"
-        },
+        "name_zh": "柴灣道",
+        "name_en": "Chai Wan Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -47,10 +43,8 @@
         "code": "04W",
         "bound": "west",
         "longitude": 114.22577,
-        "name": {
-          "zh_hk": "新成街",
-          "en": "Sun Sing Street"
-        },
+        "name_zh": "新成街",
+        "name_en": "Sun Sing Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -67,10 +61,8 @@
         "code": "06W",
         "bound": "west",
         "longitude": 114.224531,
-        "name": {
-          "zh_hk": "海富街",
-          "en": "Hoi Foo Street"
-        },
+        "name_zh": "海富街",
+        "name_en": "Hoi Foo Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -87,10 +79,8 @@
         "code": "08W",
         "bound": "west",
         "longitude": 114.222508,
-        "name": {
-          "zh_hk": "聖十字徑",
-          "en": "Holy Cross Path"
-        },
+        "name_zh": "聖十字徑",
+        "name_en": "Holy Cross Path",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -107,10 +97,8 @@
         "code": "10W",
         "bound": "west",
         "longitude": 114.221154,
-        "name": {
-          "zh_hk": "太康街",
-          "en": "Tai Hong Street"
-        },
+        "name_zh": "太康街",
+        "name_en": "Tai Hong Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -127,10 +115,8 @@
         "code": "12W",
         "bound": "west",
         "longitude": 114.220445,
-        "name": {
-          "zh_hk": "太古城道",
-          "en": "Tai Koo Shing Road"
-        },
+        "name_zh": "太古城道",
+        "name_en": "Tai Koo Shing Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -147,10 +133,8 @@
         "code": "14W",
         "bound": "west",
         "longitude": 114.216048,
-        "name": {
-          "zh_hk": "康山",
-          "en": "Kornhill"
-        },
+        "name_zh": "康山",
+        "name_en": "Kornhill",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -167,10 +151,8 @@
         "code": "16W",
         "bound": "west",
         "longitude": 114.213723,
-        "name": {
-          "zh_hk": "船塢里",
-          "en": "Shipyard Lane"
-        },
+        "name_zh": "船塢里",
+        "name_en": "Shipyard Lane",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -187,10 +169,8 @@
         "code": "18W",
         "bound": "west",
         "longitude": 114.211733,
-        "name": {
-          "zh_hk": "柏架山道",
-          "en": "Mount Parker Road"
-        },
+        "name_zh": "柏架山道",
+        "name_en": "Mount Parker Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -207,10 +187,8 @@
         "code": "20W",
         "bound": "west",
         "longitude": 114.210015,
-        "name": {
-          "zh_hk": "芬尼街",
-          "en": "Finnie Street"
-        },
+        "name_zh": "芬尼街",
+        "name_en": "Finnie Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -227,10 +205,8 @@
         "code": "22W",
         "bound": "west",
         "longitude": 114.209107,
-        "name": {
-          "zh_hk": "渣華道",
-          "en": "Java Road"
-        },
+        "name_zh": "渣華道",
+        "name_en": "Java Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -247,10 +223,8 @@
         "code": "24W",
         "bound": "west",
         "longitude": 114.207351,
-        "name": {
-          "zh_hk": "健康東街",
-          "en": "Healthy Street East"
-        },
+        "name_zh": "健康東街",
+        "name_en": "Healthy Street East",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -267,10 +241,8 @@
         "code": "26W",
         "bound": "west",
         "longitude": 114.204383,
-        "name": {
-          "zh_hk": "健康西街",
-          "en": "Healthy Street West"
-        },
+        "name_zh": "健康西街",
+        "name_en": "Healthy Street West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -287,10 +259,8 @@
         "code": "28W",
         "bound": "west",
         "longitude": 114.203293,
-        "name": {
-          "zh_hk": "電照街",
-          "en": "Tin Chiu Street"
-        },
+        "name_zh": "電照街",
+        "name_en": "Tin Chiu Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -307,10 +277,8 @@
         "code": "30W",
         "bound": "west",
         "longitude": 114.20053,
-        "name": {
-          "zh_hk": "書局街",
-          "en": "Shu Kuk Street"
-        },
+        "name_zh": "書局街",
+        "name_en": "Shu Kuk Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -327,10 +295,8 @@
         "code": "NPT",
         "bound": "west",
         "longitude": 114.19894,
-        "name": {
-          "zh_hk": "北角總站",
-          "en": "North Point Terminus"
-        },
+        "name_zh": "北角總站",
+        "name_en": "North Point Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -347,10 +313,8 @@
         "code": "32W",
         "bound": "west",
         "longitude": 114.196939,
-        "name": {
-          "zh_hk": "北角道",
-          "en": "North Point Road"
-        },
+        "name_zh": "北角道",
+        "name_en": "North Point Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -367,10 +331,8 @@
         "code": "34W",
         "bound": "west",
         "longitude": 114.194526,
-        "name": {
-          "zh_hk": "炮台山",
-          "en": "Fortress Hill"
-        },
+        "name_zh": "炮台山",
+        "name_en": "Fortress Hill",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -387,10 +349,8 @@
         "code": "36W",
         "bound": "west",
         "longitude": 114.192949,
-        "name": {
-          "zh_hk": "木星街",
-          "en": "Jupiter Street"
-        },
+        "name_zh": "木星街",
+        "name_en": "Jupiter Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -407,10 +367,8 @@
         "code": "38W",
         "bound": "west",
         "longitude": 114.19275,
-        "name": {
-          "zh_hk": "琉璃街",
-          "en": "Lau Li Street"
-        },
+        "name_zh": "琉璃街",
+        "name_en": "Lau Li Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -427,10 +385,8 @@
         "code": "40W",
         "bound": "west",
         "longitude": 114.192388,
-        "name": {
-          "zh_hk": "留仙街",
-          "en": "Lau Sin Street"
-        },
+        "name_zh": "留仙街",
+        "name_en": "Lau Sin Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -447,10 +403,8 @@
         "code": "42W",
         "bound": "west",
         "longitude": 114.189512,
-        "name": {
-          "zh_hk": "維多利亞公園",
-          "en": "Victoria Park"
-        },
+        "name_zh": "維多利亞公園",
+        "name_en": "Victoria Park",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -467,10 +421,8 @@
         "code": "44W",
         "bound": "west",
         "longitude": 114.188109,
-        "name": {
-          "zh_hk": "信德街",
-          "en": "Shelter Street"
-        },
+        "name_zh": "信德街",
+        "name_en": "Shelter Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -487,10 +439,8 @@
         "code": "CBT",
         "bound": "west",
         "longitude": 114.187259,
-        "name": {
-          "zh_hk": "銅鑼灣總站",
-          "en": "Causeway Bay Terminus"
-        },
+        "name_zh": "銅鑼灣總站",
+        "name_en": "Causeway Bay Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -507,10 +457,8 @@
         "code": "46W",
         "bound": "west",
         "longitude": 114.186498,
-        "name": {
-          "zh_hk": "邊寧頓街",
-          "en": "Pennington Street"
-        },
+        "name_zh": "邊寧頓街",
+        "name_en": "Pennington Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -527,10 +475,8 @@
         "code": "48W",
         "bound": "west",
         "longitude": 114.186259,
-        "name": {
-          "zh_hk": "百德新街",
-          "en": "Paterson Street"
-        },
+        "name_zh": "百德新街",
+        "name_en": "Paterson Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -547,10 +493,8 @@
         "code": "105",
         "bound": "west",
         "longitude": 114.183232,
-        "name": {
-          "zh_hk": "富明街",
-          "en": "Foo Ming Street"
-        },
+        "name_zh": "富明街",
+        "name_en": "Foo Ming Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -567,10 +511,8 @@
         "code": "106",
         "bound": "west",
         "longitude": 114.182521,
-        "name": {
-          "zh_hk": "禮頓道",
-          "en": "Leighton Road"
-        },
+        "name_zh": "禮頓道",
+        "name_en": "Leighton Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -587,10 +529,8 @@
         "code": "107",
         "bound": "west",
         "longitude": 114.183667,
-        "name": {
-          "zh_hk": "樂活道",
-          "en": "Broadwood Road"
-        },
+        "name_zh": "樂活道",
+        "name_en": "Broadwood Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -607,10 +547,8 @@
         "code": "108",
         "bound": "west",
         "longitude": 114.184653,
-        "name": {
-          "zh_hk": "黃泥涌道",
-          "en": "Wong Nai Chung Road"
-        },
+        "name_zh": "黃泥涌道",
+        "name_en": "Wong Nai Chung Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -627,10 +565,8 @@
         "code": "HVT_K",
         "bound": "west",
         "longitude": 114.184175,
-        "name": {
-          "zh_hk": "跑馬地總站",
-          "en": "Happy Valley Terminus"
-        },
+        "name_zh": "跑馬地總站",
+        "name_en": "Happy Valley Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -647,10 +583,8 @@
         "code": "109",
         "bound": "west",
         "longitude": 114.18002,
-        "name": {
-          "zh_hk": "天主教墳場",
-          "en": "Colonial Cemetery"
-        },
+        "name_zh": "天主教墳場",
+        "name_en": "Colonial Cemetery",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -667,10 +601,8 @@
         "code": "110",
         "bound": "west",
         "longitude": 114.179358,
-        "name": {
-          "zh_hk": "皇后大道東",
-          "en": "Queen's Road East"
-        },
+        "name_zh": "皇后大道東",
+        "name_en": "Queen's Road East",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -687,10 +619,8 @@
         "code": "111",
         "bound": "west",
         "longitude": 114.180437,
-        "name": {
-          "zh_hk": "摩利臣山道",
-          "en": "Morrison Hill Road"
-        },
+        "name_zh": "摩利臣山道",
+        "name_en": "Morrison Hill Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -707,10 +637,8 @@
         "code": "112",
         "bound": "west",
         "longitude": 114.179625,
-        "name": {
-          "zh_hk": "天樂里",
-          "en": "Tin Lok Lane"
-        },
+        "name_zh": "天樂里",
+        "name_en": "Tin Lok Lane",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -727,10 +655,8 @@
         "code": "50W",
         "bound": "west",
         "longitude": 114.180941,
-        "name": {
-          "zh_hk": "堅拿道西",
-          "en": "Canal Road West"
-        },
+        "name_zh": "堅拿道西",
+        "name_en": "Canal Road West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -747,10 +673,8 @@
         "code": "52W",
         "bound": "west",
         "longitude": 114.177442,
-        "name": {
-          "zh_hk": "杜老誌道",
-          "en": "Tonnochy Road"
-        },
+        "name_zh": "杜老誌道",
+        "name_en": "Tonnochy Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -767,10 +691,8 @@
         "code": "54W",
         "bound": "west",
         "longitude": 114.176098,
-        "name": {
-          "zh_hk": "巴路士街",
-          "en": "Burrows Street"
-        },
+        "name_zh": "巴路士街",
+        "name_en": "Burrows Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -787,10 +709,8 @@
         "code": "56W",
         "bound": "west",
         "longitude": 114.173208,
-        "name": {
-          "zh_hk": "柯布連道",
-          "en": "O'Brien Road"
-        },
+        "name_zh": "柯布連道",
+        "name_en": "O'Brien Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -807,10 +727,8 @@
         "code": "58W",
         "bound": "west",
         "longitude": 114.171947,
-        "name": {
-          "zh_hk": "汕頭街",
-          "en": "Swatow Street"
-        },
+        "name_zh": "汕頭街",
+        "name_en": "Swatow Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -827,10 +745,8 @@
         "code": "60W",
         "bound": "west",
         "longitude": 114.170273,
-        "name": {
-          "zh_hk": "機利臣街",
-          "en": "Gresson Street"
-        },
+        "name_zh": "機利臣街",
+        "name_en": "Gresson Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -847,10 +763,8 @@
         "code": "62W",
         "bound": "west",
         "longitude": 114.168467,
-        "name": {
-          "zh_hk": "軍器廠街",
-          "en": "Arsenal Street"
-        },
+        "name_zh": "軍器廠街",
+        "name_en": "Arsenal Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -867,10 +781,8 @@
         "code": "64W",
         "bound": "west",
         "longitude": 114.165356,
-        "name": {
-          "zh_hk": "金鐘港鐵站",
-          "en": "Admiralty MTR Station"
-        },
+        "name_zh": "金鐘港鐵站",
+        "name_en": "Admiralty MTR Station",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -887,10 +799,8 @@
         "code": "66W",
         "bound": "west",
         "longitude": 114.163001,
-        "name": {
-          "zh_hk": "紅棉道",
-          "en": "Cotton Tree Drive"
-        },
+        "name_zh": "紅棉道",
+        "name_en": "Cotton Tree Drive",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -907,10 +817,8 @@
         "code": "68W",
         "bound": "west",
         "longitude": 114.159426,
-        "name": {
-          "zh_hk": "銀行街",
-          "en": "Bank Street"
-        },
+        "name_zh": "銀行街",
+        "name_en": "Bank Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -927,10 +835,8 @@
         "code": "70W",
         "bound": "west",
         "longitude": 114.157883,
-        "name": {
-          "zh_hk": "畢打街",
-          "en": "Pedder Street"
-        },
+        "name_zh": "畢打街",
+        "name_en": "Pedder Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -947,10 +853,8 @@
         "code": "72W",
         "bound": "west",
         "longitude": 114.156509,
-        "name": {
-          "zh_hk": "砵甸乍街",
-          "en": "Pottinger Street"
-        },
+        "name_zh": "砵甸乍街",
+        "name_en": "Pottinger Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -967,10 +871,8 @@
         "code": "74W",
         "bound": "west",
         "longitude": 114.15485,
-        "name": {
-          "zh_hk": "機利文街",
-          "en": "Gilman Street"
-        },
+        "name_zh": "機利文街",
+        "name_en": "Gilman Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -987,10 +889,8 @@
         "code": "76W",
         "bound": "west",
         "longitude": 114.152926,
-        "name": {
-          "zh_hk": "文華里",
-          "en": "Man Wah Lane"
-        },
+        "name_zh": "文華里",
+        "name_en": "Man Wah Lane",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1007,10 +907,8 @@
         "code": "WM",
         "bound": "west",
         "longitude": 114.150715,
-        "name": {
-          "zh_hk": "上環街市",
-          "en": "Western Market Terminus"
-        },
+        "name_zh": "上環街市",
+        "name_en": "Western Market Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1027,10 +925,8 @@
         "code": "78W",
         "bound": "west",
         "longitude": 114.1502,
-        "name": {
-          "zh_hk": "港澳碼頭",
-          "en": "Macau Ferry Terminal"
-        },
+        "name_zh": "港澳碼頭",
+        "name_en": "Macau Ferry Terminal",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1047,10 +943,8 @@
         "code": "80W",
         "bound": "west",
         "longitude": 114.148458,
-        "name": {
-          "zh_hk": "干諾道西",
-          "en": "Connaught Road West"
-        },
+        "name_zh": "干諾道西",
+        "name_en": "Connaught Road West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1067,10 +961,8 @@
         "code": "82W",
         "bound": "west",
         "longitude": 114.145935,
-        "name": {
-          "zh_hk": "修打蘭街",
-          "en": "Sutherland Street"
-        },
+        "name_zh": "修打蘭街",
+        "name_en": "Sutherland Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1087,10 +979,8 @@
         "code": "84W",
         "bound": "west",
         "longitude": 114.143684,
-        "name": {
-          "zh_hk": "東邊街",
-          "en": "Eastern Street"
-        },
+        "name_zh": "東邊街",
+        "name_en": "Eastern Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1107,10 +997,8 @@
         "code": "86W",
         "bound": "west",
         "longitude": 114.140924,
-        "name": {
-          "zh_hk": "西邊街",
-          "en": "Western Street"
-        },
+        "name_zh": "西邊街",
+        "name_en": "Western Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1127,10 +1015,8 @@
         "code": "88W",
         "bound": "west",
         "longitude": 114.138898,
-        "name": {
-          "zh_hk": "水街",
-          "en": "Water Street"
-        },
+        "name_zh": "水街",
+        "name_en": "Water Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1147,10 +1033,8 @@
         "code": "90W",
         "bound": "west",
         "longitude": 114.136549,
-        "name": {
-          "zh_hk": "屈地街",
-          "en": "Whitty Street"
-        },
+        "name_zh": "屈地街",
+        "name_en": "Whitty Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1167,10 +1051,8 @@
         "code": "92W",
         "bound": "west",
         "longitude": 114.134573,
-        "name": {
-          "zh_hk": "山道",
-          "en": "Hill Road"
-        },
+        "name_zh": "山道",
+        "name_en": "Hill Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1187,10 +1069,8 @@
         "code": "94W",
         "bound": "west",
         "longitude": 114.137907,
-        "name": {
-          "zh_hk": "屈地街電車廠",
-          "en": "Whitty Street Depot"
-        },
+        "name_zh": "屈地街電車廠",
+        "name_en": "Whitty Street Depot",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1207,10 +1087,8 @@
         "code": "96W",
         "bound": "west",
         "longitude": 114.132418,
-        "name": {
-          "zh_hk": "皇后大道西",
-          "en": "Queen's Road West"
-        },
+        "name_zh": "皇后大道西",
+        "name_en": "Queen's Road West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1227,10 +1105,8 @@
         "code": "98W",
         "bound": "west",
         "longitude": 114.130731,
-        "name": {
-          "zh_hk": "堅尼地城海傍",
-          "en": "Kennedy Town Praya"
-        },
+        "name_zh": "堅尼地城海傍",
+        "name_en": "Kennedy Town Praya",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1247,10 +1123,8 @@
         "code": "100W",
         "bound": "west",
         "longitude": 114.129561,
-        "name": {
-          "zh_hk": "山市街",
-          "en": "Sands Street"
-        },
+        "name_zh": "山市街",
+        "name_en": "Sands Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1267,10 +1141,8 @@
         "code": "102W",
         "bound": "west",
         "longitude": 114.128263,
-        "name": {
-          "zh_hk": "士美菲路",
-          "en": "Smithfield"
-        },
+        "name_zh": "士美菲路",
+        "name_en": "Smithfield",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1287,10 +1159,8 @@
         "code": "104W",
         "bound": "west",
         "longitude": 114.126767,
-        "name": {
-          "zh_hk": "爹核士街",
-          "en": "Davis Street"
-        },
+        "name_zh": "爹核士街",
+        "name_en": "Davis Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1307,10 +1177,8 @@
         "code": "KTT",
         "bound": "east",
         "longitude": 114.12628,
-        "name": {
-          "zh_hk": "堅尼地城總站",
-          "en": "Kennedy Town Terminus"
-        },
+        "name_zh": "堅尼地城總站",
+        "name_en": "Kennedy Town Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1327,10 +1195,8 @@
         "code": "01E",
         "bound": "east",
         "longitude": 114.128887,
-        "name": {
-          "zh_hk": "北街",
-          "en": "North Street"
-        },
+        "name_zh": "北街",
+        "name_en": "North Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1347,10 +1213,8 @@
         "code": "03E",
         "bound": "east",
         "longitude": 114.130609,
-        "name": {
-          "zh_hk": "荷蘭街",
-          "en": "Holland Street"
-        },
+        "name_zh": "荷蘭街",
+        "name_en": "Holland Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1367,10 +1231,8 @@
         "code": "05E",
         "bound": "east",
         "longitude": 114.132418,
-        "name": {
-          "zh_hk": "皇后大道西",
-          "en": "Queen's Road West"
-        },
+        "name_zh": "皇后大道西",
+        "name_en": "Queen's Road West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1387,10 +1249,8 @@
         "code": "07E",
         "bound": "east",
         "longitude": 114.134573,
-        "name": {
-          "zh_hk": "山道",
-          "en": "Hill Road"
-        },
+        "name_zh": "山道",
+        "name_en": "Hill Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1407,10 +1267,8 @@
         "code": "WST",
         "bound": "east",
         "longitude": 114.135106,
-        "name": {
-          "zh_hk": "石塘咀總站",
-          "en": "Shek Tong Tsui Terminus"
-        },
+        "name_zh": "石塘咀總站",
+        "name_en": "Shek Tong Tsui Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1427,10 +1285,8 @@
         "code": "09E",
         "bound": "east",
         "longitude": 114.136549,
-        "name": {
-          "zh_hk": "屈地街",
-          "en": "Whitty Street"
-        },
+        "name_zh": "屈地街",
+        "name_en": "Whitty Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1447,10 +1303,8 @@
         "code": "11E",
         "bound": "east",
         "longitude": 114.138898,
-        "name": {
-          "zh_hk": "水街",
-          "en": "Water Street"
-        },
+        "name_zh": "水街",
+        "name_en": "Water Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1467,10 +1321,8 @@
         "code": "13E",
         "bound": "east",
         "longitude": 114.140924,
-        "name": {
-          "zh_hk": "西邊街",
-          "en": "Western Street"
-        },
+        "name_zh": "西邊街",
+        "name_en": "Western Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1487,10 +1339,8 @@
         "code": "15E",
         "bound": "east",
         "longitude": 114.143684,
-        "name": {
-          "zh_hk": "東邊街",
-          "en": "Eastern Street"
-        },
+        "name_zh": "東邊街",
+        "name_en": "Eastern Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1507,10 +1357,8 @@
         "code": "17E",
         "bound": "east",
         "longitude": 114.147028,
-        "name": {
-          "zh_hk": "皇后街",
-          "en": "Queen Street"
-        },
+        "name_zh": "皇后街",
+        "name_en": "Queen Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1527,10 +1375,8 @@
         "code": "19E",
         "bound": "east",
         "longitude": 114.1502,
-        "name": {
-          "zh_hk": "港澳碼頭",
-          "en": "Macau Ferry Terminal"
-        },
+        "name_zh": "港澳碼頭",
+        "name_en": "Macau Ferry Terminal",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1547,10 +1393,8 @@
         "code": "WMT",
         "bound": "east",
         "longitude": 114.150715,
-        "name": {
-          "zh_hk": "上環 (西港城) 總站",
-          "en": "Western Market Terminus"
-        },
+        "name_zh": "上環 (西港城) 總站",
+        "name_en": "Western Market Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1567,10 +1411,8 @@
         "code": "21E",
         "bound": "east",
         "longitude": 114.15198,
-        "name": {
-          "zh_hk": "禧利街",
-          "en": "Hillier Street"
-        },
+        "name_zh": "禧利街",
+        "name_en": "Hillier Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1587,10 +1429,8 @@
         "code": "23E",
         "bound": "east",
         "longitude": 114.15485,
-        "name": {
-          "zh_hk": "機利文街",
-          "en": "Gilman Street"
-        },
+        "name_zh": "機利文街",
+        "name_en": "Gilman Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1607,10 +1447,8 @@
         "code": "25E",
         "bound": "east",
         "longitude": 114.155691,
-        "name": {
-          "zh_hk": "租庇利街",
-          "en": "Jubilee Street"
-        },
+        "name_zh": "租庇利街",
+        "name_en": "Jubilee Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1627,10 +1465,8 @@
         "code": "27E",
         "bound": "east",
         "longitude": 114.157883,
-        "name": {
-          "zh_hk": "畢打街",
-          "en": "Pedder Street"
-        },
+        "name_zh": "畢打街",
+        "name_en": "Pedder Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1647,10 +1483,8 @@
         "code": "29E",
         "bound": "east",
         "longitude": 114.158564,
-        "name": {
-          "zh_hk": "雪廠街",
-          "en": "Ice House Street"
-        },
+        "name_zh": "雪廠街",
+        "name_en": "Ice House Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1667,10 +1501,8 @@
         "code": "31E",
         "bound": "east",
         "longitude": 114.159426,
-        "name": {
-          "zh_hk": "銀行街",
-          "en": "Bank Street"
-        },
+        "name_zh": "銀行街",
+        "name_en": "Bank Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1687,10 +1519,8 @@
         "code": "33E",
         "bound": "east",
         "longitude": 114.161213,
-        "name": {
-          "zh_hk": "美利道",
-          "en": "Murray Road"
-        },
+        "name_zh": "美利道",
+        "name_en": "Murray Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1707,10 +1537,8 @@
         "code": "35E",
         "bound": "east",
         "longitude": 114.165356,
-        "name": {
-          "zh_hk": "金鐘港鐵站",
-          "en": "Admiralty MTR Station"
-        },
+        "name_zh": "金鐘港鐵站",
+        "name_en": "Admiralty MTR Station",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1727,10 +1555,8 @@
         "code": "37E",
         "bound": "east",
         "longitude": 114.168467,
-        "name": {
-          "zh_hk": "軍器廠街",
-          "en": "Arsenal Street"
-        },
+        "name_zh": "軍器廠街",
+        "name_en": "Arsenal Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1747,10 +1573,8 @@
         "code": "39E",
         "bound": "east",
         "longitude": 114.170056,
-        "name": {
-          "zh_hk": "分域街",
-          "en": "Fenwick Street"
-        },
+        "name_zh": "分域街",
+        "name_en": "Fenwick Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1767,10 +1591,8 @@
         "code": "41E",
         "bound": "east",
         "longitude": 114.171203,
-        "name": {
-          "zh_hk": "盧押道",
-          "en": "Luard Road"
-        },
+        "name_zh": "盧押道",
+        "name_en": "Luard Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1787,10 +1609,8 @@
         "code": "43E",
         "bound": "east",
         "longitude": 114.173208,
-        "name": {
-          "zh_hk": "柯布連道",
-          "en": "O'Brien Road"
-        },
+        "name_zh": "柯布連道",
+        "name_en": "O'Brien Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1807,10 +1627,8 @@
         "code": "45E",
         "bound": "east",
         "longitude": 114.175047,
-        "name": {
-          "zh_hk": "菲林明道",
-          "en": "Fleming Road"
-        },
+        "name_zh": "菲林明道",
+        "name_en": "Fleming Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1827,10 +1645,8 @@
         "code": "47E",
         "bound": "east",
         "longitude": 114.177442,
-        "name": {
-          "zh_hk": "杜老誌道",
-          "en": "Tonnochy Road"
-        },
+        "name_zh": "杜老誌道",
+        "name_en": "Tonnochy Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1847,10 +1663,8 @@
         "code": "49E",
         "bound": "east",
         "longitude": 114.180941,
-        "name": {
-          "zh_hk": "堅拿道西",
-          "en": "Canal Road West"
-        },
+        "name_zh": "堅拿道西",
+        "name_en": "Canal Road West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1867,10 +1681,8 @@
         "code": "105",
         "bound": "east",
         "longitude": 114.183232,
-        "name": {
-          "zh_hk": "富明街",
-          "en": "Foo Ming Street"
-        },
+        "name_zh": "富明街",
+        "name_en": "Foo Ming Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1887,10 +1699,8 @@
         "code": "106",
         "bound": "east",
         "longitude": 114.182521,
-        "name": {
-          "zh_hk": "禮頓道",
-          "en": "Leighton Road"
-        },
+        "name_zh": "禮頓道",
+        "name_en": "Leighton Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1907,10 +1717,8 @@
         "code": "107",
         "bound": "east",
         "longitude": 114.183667,
-        "name": {
-          "zh_hk": "樂活道",
-          "en": "Broadwood Road"
-        },
+        "name_zh": "樂活道",
+        "name_en": "Broadwood Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1927,10 +1735,8 @@
         "code": "108",
         "bound": "east",
         "longitude": 114.184653,
-        "name": {
-          "zh_hk": "黃泥涌道",
-          "en": "Wong Nai Chung Road"
-        },
+        "name_zh": "黃泥涌道",
+        "name_en": "Wong Nai Chung Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1947,10 +1753,8 @@
         "code": "HVT_B",
         "bound": "east",
         "longitude": 114.184175,
-        "name": {
-          "zh_hk": "跑馬地總站",
-          "en": "Happy Valley Terminus"
-        },
+        "name_zh": "跑馬地總站",
+        "name_en": "Happy Valley Terminus",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1967,10 +1771,8 @@
         "code": "109",
         "bound": "east",
         "longitude": 114.18002,
-        "name": {
-          "zh_hk": "天主教墳場",
-          "en": "Colonial Cemetery"
-        },
+        "name_zh": "天主教墳場",
+        "name_en": "Colonial Cemetery",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -1987,10 +1789,8 @@
         "code": "110",
         "bound": "east",
         "longitude": 114.179358,
-        "name": {
-          "zh_hk": "皇后大道東",
-          "en": "Queen's Road East"
-        },
+        "name_zh": "皇后大道東",
+        "name_en": "Queen's Road East",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2007,10 +1807,8 @@
         "code": "111",
         "bound": "east",
         "longitude": 114.180437,
-        "name": {
-          "zh_hk": "摩利臣山道",
-          "en": "Morrison Hill Road"
-        },
+        "name_zh": "摩利臣山道",
+        "name_en": "Morrison Hill Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2027,10 +1825,8 @@
         "code": "112",
         "bound": "east",
         "longitude": 114.179625,
-        "name": {
-          "zh_hk": "天樂里",
-          "en": "Tin Lok Lane"
-        },
+        "name_zh": "天樂里",
+        "name_en": "Tin Lok Lane",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2047,10 +1843,8 @@
         "code": "51E",
         "bound": "east",
         "longitude": 114.182951,
-        "name": {
-          "zh_hk": "波斯富街",
-          "en": "Percival Street"
-        },
+        "name_zh": "波斯富街",
+        "name_en": "Percival Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2067,10 +1861,8 @@
         "code": "53E",
         "bound": "east",
         "longitude": 114.186259,
-        "name": {
-          "zh_hk": "百德新街",
-          "en": "Paterson Street"
-        },
+        "name_zh": "百德新街",
+        "name_en": "Paterson Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2087,10 +1879,8 @@
         "code": "55E",
         "bound": "east",
         "longitude": 114.188109,
-        "name": {
-          "zh_hk": "信德街",
-          "en": "Shelter Street"
-        },
+        "name_zh": "信德街",
+        "name_en": "Shelter Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2107,10 +1897,8 @@
         "code": "57E",
         "bound": "east",
         "longitude": 114.189512,
-        "name": {
-          "zh_hk": "維多利亞公園",
-          "en": "Victoria Park"
-        },
+        "name_zh": "維多利亞公園",
+        "name_en": "Victoria Park",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2127,10 +1915,8 @@
         "code": "59E",
         "bound": "east",
         "longitude": 114.191062,
-        "name": {
-          "zh_hk": "興發街",
-          "en": "Hing Fat Street"
-        },
+        "name_zh": "興發街",
+        "name_en": "Hing Fat Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2147,10 +1933,8 @@
         "code": "61E",
         "bound": "east",
         "longitude": 114.192886,
-        "name": {
-          "zh_hk": "永興街",
-          "en": "Wing Hing Street"
-        },
+        "name_zh": "永興街",
+        "name_en": "Wing Hing Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2167,10 +1951,8 @@
         "code": "63E",
         "bound": "east",
         "longitude": 114.192949,
-        "name": {
-          "zh_hk": "木星街",
-          "en": "Jupiter Street"
-        },
+        "name_zh": "木星街",
+        "name_en": "Jupiter Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2187,10 +1969,8 @@
         "code": "65E",
         "bound": "east",
         "longitude": 114.194526,
-        "name": {
-          "zh_hk": "炮台山",
-          "en": "Fortress Hill"
-        },
+        "name_zh": "炮台山",
+        "name_en": "Fortress Hill",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2207,10 +1987,8 @@
         "code": "67E",
         "bound": "east",
         "longitude": 114.196733,
-        "name": {
-          "zh_hk": "春秧街",
-          "en": "Chun Yeung Street"
-        },
+        "name_zh": "春秧街",
+        "name_en": "Chun Yeung Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2227,10 +2005,8 @@
         "code": "69E",
         "bound": "east",
         "longitude": 114.196939,
-        "name": {
-          "zh_hk": "北角道",
-          "en": "North Point Road"
-        },
+        "name_zh": "北角道",
+        "name_en": "North Point Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2247,10 +2023,8 @@
         "code": "71E",
         "bound": "east",
         "longitude": 114.20053,
-        "name": {
-          "zh_hk": "書局街",
-          "en": "Shu Kuk Street"
-        },
+        "name_zh": "書局街",
+        "name_en": "Shu Kuk Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2267,10 +2041,8 @@
         "code": "73E",
         "bound": "east",
         "longitude": 114.203293,
-        "name": {
-          "zh_hk": "電照街",
-          "en": "Tin Chiu Street"
-        },
+        "name_zh": "電照街",
+        "name_en": "Tin Chiu Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2287,10 +2059,8 @@
         "code": "75E",
         "bound": "east",
         "longitude": 114.204383,
-        "name": {
-          "zh_hk": "健康西街",
-          "en": "Healthy Street West"
-        },
+        "name_zh": "健康西街",
+        "name_en": "Healthy Street West",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2307,10 +2077,8 @@
         "code": "77E",
         "bound": "east",
         "longitude": 114.207351,
-        "name": {
-          "zh_hk": "健康東街",
-          "en": "Healthy Street East"
-        },
+        "name_zh": "健康東街",
+        "name_en": "Healthy Street East",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2327,10 +2095,8 @@
         "code": "79E",
         "bound": "east",
         "longitude": 114.209107,
-        "name": {
-          "zh_hk": "渣華道",
-          "en": "Java Road"
-        },
+        "name_zh": "渣華道",
+        "name_en": "Java Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2347,10 +2113,8 @@
         "code": "81E",
         "bound": "east",
         "longitude": 114.210015,
-        "name": {
-          "zh_hk": "芬尼街",
-          "en": "Finnie Street"
-        },
+        "name_zh": "芬尼街",
+        "name_en": "Finnie Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2367,10 +2131,8 @@
         "code": "83E",
         "bound": "east",
         "longitude": 114.211733,
-        "name": {
-          "zh_hk": "柏架山道",
-          "en": "Mount Parker Road"
-        },
+        "name_zh": "柏架山道",
+        "name_en": "Mount Parker Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2387,10 +2149,8 @@
         "code": "85E",
         "bound": "east",
         "longitude": 114.213723,
-        "name": {
-          "zh_hk": "船塢里",
-          "en": "Shipyard Lane"
-        },
+        "name_zh": "船塢里",
+        "name_en": "Shipyard Lane",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2407,10 +2167,8 @@
         "code": "87E",
         "bound": "east",
         "longitude": 114.216048,
-        "name": {
-          "zh_hk": "康山",
-          "en": "Kornhill"
-        },
+        "name_zh": "康山",
+        "name_en": "Kornhill",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2427,10 +2185,8 @@
         "code": "89E",
         "bound": "east",
         "longitude": 114.220445,
-        "name": {
-          "zh_hk": "太古城道",
-          "en": "Tai Koo Shing Road"
-        },
+        "name_zh": "太古城道",
+        "name_en": "Tai Koo Shing Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2447,10 +2203,8 @@
         "code": "91E",
         "bound": "east",
         "longitude": 114.221154,
-        "name": {
-          "zh_hk": "太康街",
-          "en": "Tai Hong Street"
-        },
+        "name_zh": "太康街",
+        "name_en": "Tai Hong Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2467,10 +2221,8 @@
         "code": "93E",
         "bound": "east",
         "longitude": 114.221898,
-        "name": {
-          "zh_hk": "太安街",
-          "en": "Tai On Street"
-        },
+        "name_zh": "太安街",
+        "name_en": "Tai On Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2487,10 +2239,8 @@
         "code": "95E",
         "bound": "east",
         "longitude": 114.224531,
-        "name": {
-          "zh_hk": "海富街",
-          "en": "Hoi Foo Street"
-        },
+        "name_zh": "海富街",
+        "name_en": "Hoi Foo Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2507,10 +2257,8 @@
         "code": "97E",
         "bound": "east",
         "longitude": 114.2258,
-        "name": {
-          "zh_hk": "西灣河電車廠",
-          "en": "Sai Wan Ho Depot"
-        },
+        "name_zh": "西灣河電車廠",
+        "name_en": "Sai Wan Ho Depot",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2527,10 +2275,8 @@
         "code": "99E",
         "bound": "east",
         "longitude": 114.226053,
-        "name": {
-          "zh_hk": "南康街",
-          "en": "Nam Hong Street"
-        },
+        "name_zh": "南康街",
+        "name_en": "Nam Hong Street",
         "marker-symbol": "rail-above"
       },
       "geometry": {
@@ -2547,10 +2293,8 @@
         "code": "101E",
         "bound": "east",
         "longitude": 114.229391,
-        "name": {
-          "zh_hk": "柴灣道",
-          "en": "Chai Wan Road"
-        },
+        "name_zh": "柴灣道",
+        "name_en": "Chai Wan Road",
         "marker-symbol": "rail-above"
       },
       "geometry": {
