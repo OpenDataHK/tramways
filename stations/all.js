@@ -882,8 +882,8 @@
   {
     "code": "41E",
     "bound": "east",
-    "latitude": 22.277695,
-    "longitude": 114.171203,
+    "latitude": 22.276471,
+    "longitude": 114.171629,
     "name": {
       "zh_hk": "盧押道",
       "en": "Luard Road"
